@@ -55,6 +55,7 @@ Thanks!
 - [viniciuslcpereira97](https://github.com/viniciuslcpereira97)
 - [MackyNous](https://github.com/mackynous)
 - [sunpech](https://github.com/sunpech)
+- [jon](https://github.com/githubbbbbbbbbbbbb)
 - [cpcio](https://github.com/cpcio)
 - [rauenzi](https://github.com/rauenzi)
 - [anubhakushwaha](https://github.com/anubhakushwaha)
